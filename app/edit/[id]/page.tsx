@@ -2,10 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { redirect, useRouter } from "next/navigation";
-import { useState,useEffect, FormEvent, MouseEvent } from "react";
-import { useParams } from 'next/navigation'
-import { useSearchParams } from 'next/navigation'
+
 
 
  
