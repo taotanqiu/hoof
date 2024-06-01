@@ -1,0 +1,6 @@
+{   
+"ignore": ["node_modules", ".next"],
+"watch": ["/app/api/**/*"],
+"ext": "js json ts",
+"exec": "next dev"
+}
